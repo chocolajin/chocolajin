@@ -15,10 +15,11 @@
 <a href="https://velog.io/@chocolajin" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=velog&logoColor=#20C997"/></a>
 <a href="https://wide-warlock-56f.notion.site/98bd8cf3d4094f768680a5b2473510a7" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
 
-
+---
 
 ![Ajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocolajin&show_icons=true&theme=radical)
 
+---
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ajin15)](https://solved.ac/ajin15)
 
