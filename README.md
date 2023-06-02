@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Ajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocolajin&show_icons=true&theme=radical)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ajin15)](https://solved.ac/ajin15)
 
